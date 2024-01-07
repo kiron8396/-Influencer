@@ -58,4 +58,18 @@ justify-content: space-between;
     font-weight: 700;
     border: none;
     color: #FFF;
+
 }
+.start-img{
+    width: 440px;
+height: 414px;
+}
+.logos{
+    align-items: center;
+    display: flex;
+    gap: 60.42px;
+    margin-top: 143px;
+    justify-content: center;
+
+}
+/* header complite  */
