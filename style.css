@@ -1,0 +1,61 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+/* ----------------------------------
+                Nav bar
+                ------------------------------ */
+
+.nav-title{
+    font-size: 24px;
+}
+
+
+header {
+    margin: 87px 120px;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-bar a {
+    text-decoration: none;
+    
+}
+.nav-bar >a{
+    font-size: 16px;
+}
+
+.nav-bar {
+    display: flex;
+    gap: 34px;
+}
+
+/* start jurny  */
+.start{
+display: flex;
+margin-top: 80px;
+justify-content: space-between;
+}
+.start-title{
+    color: #3A3A3A;
+    font-size: 52px;
+    font-weight: 700;
+}
+.start-des{
+    font-size: 16px;
+    color: #3A3A3A;
+
+}
+.start-btn{
+    background: #E02C6D;
+    padding: 10px 24px;
+    border-radius: 41px;
+    font-size: 16px;
+    font-weight: 700;
+    border: none;
+    color: #FFF;
+}
